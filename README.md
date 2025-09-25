@@ -78,7 +78,6 @@ The Excel file contains multiple sheets with summarized reports and pivot analys
 ## Tools & Technologies
 
 * **Excel** (Pivot tables, charts, slicers, dashboards).
-* (Optional future work) Python / Power BI / Tableau for advanced analysis & visualization.
 
 ---
 
